@@ -1,0 +1,14 @@
+h1{
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  size: 50px;
+  margin: 0 auto;
+  width: 70%
+  padding: 0 10px;
+  font-size: 50px;
+  color: #1d11b0;
+}
+img{
+  object-fit: cover;
+  width:350px;
+  height:350px
+}
